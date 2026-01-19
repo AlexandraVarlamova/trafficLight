@@ -1,4 +1,4 @@
-// App.tsx
+
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 import './App.css';
 import { Circle } from './Circle/Circle';
